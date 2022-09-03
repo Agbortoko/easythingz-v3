@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 437.46 116.46">
+  <g id="testBg">
+    <rect x="223.54" y="70" width="73" height="73" style="fill: none"/>
+  </g>
+  <g id="colorDistored01">
+    <g>
+      <g>
+        <rect x="1.86" y="58.45" width="43.86" height="10.97" style="fill: #fe864f"/>
+        <path d="M1.86,74.9H29.27V96.83H78s-10.71,11-34.51,11S4.16,87.39,1.86,74.9Z" style="fill: #23294a"/>
+        <path d="M1.86,52.88H29.47v-22H78S67.3,20.07,43.5,20.07,4.16,40.42,1.86,52.88Z" style="fill: #23294a"/>
+        <polygon points="34.76 36.52 67.65 36.52 78.62 52.96 67.65 52.96 67.65 63.93 51.2 91.34 51.2 52.96 34.76 52.96 34.76 36.52" style="fill: #23294a"/>
+        <polygon points="67.65 91.34 56.78 91.34 67.65 72.61 67.65 91.34" style="fill: #fe864f"/>
+        <polygon points="78.62 36.52 73.15 36.52 78.62 45.25 78.62 36.52" style="fill: #fe864f"/>
+      </g>
+      <text transform="translate(106.89 85.64)" style="font-size: 79.9594955444336px;fill: #fe864f;font-family: Montserrat-BoldItalic, Montserrat;font-weight: 700;font-style: italic">ea<tspan x="105.38" y="0" style="letter-spacing: -0.010002622978724866em">s</tspan><tspan x="147.04" y="0" style="letter-spacing: 0.01499782786065218em">y</tspan><tspan x="196.06" y="0" style="fill: #23294a">thz</tspan></text>
+    </g>
+  </g>
+</svg>
